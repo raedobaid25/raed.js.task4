@@ -1,0 +1,11 @@
+.demo{
+    font-size:30px ;
+    font-weight: bold;
+    color: deeppink;
+    text-shadow: rgb(100, 0, 75) 10px 10px 10px ;
+    margin: auto;
+}
+.vip{
+    color: rgba(255, 97, 97, 0.781);
+    background-color: bisque;
+}
